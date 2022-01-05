@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+/*Star of 1st section*/
+.top-section{
+    display: flex;
+    margin: 50px 50px 10px 120px;
+}
+.left-content{
+    padding-top: 75px;
+}
+.left-border{
+    border-left: 4px solid red;
+    border-radius: 4px;
+}
+.left-border h2{
+    font-size: 50px;
+    line-height: 30px;
+    padding-left: 15px;  
+}
+.left-content p{
+    padding-right: 150px;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.Mission-color{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 18px;
+    color: #fff;
+    background-color: #F1585C;
+    padding: 10px 40px;
+    border-radius: 6px;
+}
+h5{
+    margin-top: 40px;
+}
+.content{
+    width: 50%;
+}
+.content img{
+    width: 80%;
+}
+/*End of 1st section*/
+
+/*Start of 2nd section*/
+h1{
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+    color: #171839;
+    font-weight: 900;
+}
+.test-area{
+    width: 100%;
+    margin-bottom: 80px;
+}
+.middle-section-main{
+    display: flex;
+    margin: 10px 7.5%;  
+
+}
+.middle-section{
+    width: 33%;
+    /*border: 1px solid red;*/
+    margin: 0px 20px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.middle-section img{
+    width: 100px;
+}
+.left-box{
+    background-color: #EBF2F3;
+}
+.middle-box{
+    background-color: #FDECE8;
+}
+.right-box{
+    background-color: #FDF6D8;
+}
+/*End of 2nd section*/
+
+/*Start of 3rd section*/
+.dev-left{
+    width: 40%;
+}
+.dev-right{
+    width: 60%;
+    margin: 10px 50px 10px 30px;
+}
+.dev-sec-img{
+    width: 90%;
+  
+}
+.dev-right h2{
+    font-size: 40px;
+    line-height: 50px;
+}
+.dev-right p{
+    font-size: 16px;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+/*End of 3rd section*/
+
+/*Start of 4th section*/
+/*End of 4th section*/
+
+/*Start of 5th section*/
+/*End of 5th section*/
+
+/*Start of Footer section*/
+
+.foot-color{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    text-align: center; 
+
+}
+.foot-color h2{
+    color: white; 
+    padding-top: 30px; 
+    margin-bottom: 20px; 
+    
+
+}
+.foot-color h6{
+    color: white;
+    font-size: 13px;
+   font-weight: 400;
+}
+.footer-color{
+    color: #F1585c; 
+}
+
+
+/*End of Footer section*/
+
+
+
+
+
+
+
