@@ -35,7 +35,7 @@ body{
     text-transform: capitalize;
     font-size: 18px;
     color: #fff;
-    background-color: #F1585C;
+    background-color: #F843BD;
     padding: 10px 40px;
     border-radius: 6px;
 }
@@ -115,6 +115,16 @@ h1{
 /*End of 4th section*/
 
 /*Start of 5th section*/
+.about-content h2{
+    font-size: 30px;
+}
+.about-color{
+    color: orange;
+}
+.intro{
+    margin: 0;
+    padding: 0;
+}
 /*End of 5th section*/
 
 /*Start of Footer section*/
